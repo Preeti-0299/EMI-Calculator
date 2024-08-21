@@ -1,7 +1,7 @@
  <h1>React EMI Calculator</h1>
     <p>A simple and efficient EMI (Equated Monthly Installment) Calculator built using React.js.</p>
 
-    <h2>Table of Contents</h2>
+   <h2>Table of Contents</h2>
     <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#features">Features</a></li>
@@ -11,10 +11,10 @@
         <li><a href="#license">License</a></li>
     </ul>
 
-    <h2 id="about">About</h2>
+   <h2 id="about">About</h2>
     <p>The React EMI Calculator is a web-based application that allows users to calculate the Equated Monthly Installment (EMI) based on the principal amount, interest rate, and loan tenure. The calculator provides real-time updates and a user-friendly interface.</p>
 
-    <h2 id="features">Features</h2>
+   <h2 id="features">Features</h2>
     <ul>
         <li>Real-time EMI calculation.</li>
         <li>User-friendly and responsive interface.</li>
@@ -23,7 +23,7 @@
         <li>Clear and reset functionalities.</li>
     </ul>
 
-    <h2 id="installation">Installation</h2>
+   <h2 id="installation">Installation</h2>
     <p>Follow the steps below to set up and run the EMI Calculator on your local machine:</p>
     <ol>
         <li>Clone the repository:
@@ -41,7 +41,7 @@
         <li>Open your browser and visit <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> to view the application.</li>
     </ol>
 
-    <h2 id="usage">Usage</h2>
+   <h2 id="usage">Usage</h2>
     <p>Once the application is running, you can use it to calculate EMIs by following these steps:</p>
     <ol>
         <li>Enter the principal amount.</li>
@@ -50,7 +50,7 @@
         <li>Click on the "Calculate" button to get the EMI amount.</li>
     </ol>
 
-    <h2 id="contributing">Contributing</h2>
+   <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request. Follow the steps below to contribute:</p>
     <ol>
         <li>Fork the repository.</li>
